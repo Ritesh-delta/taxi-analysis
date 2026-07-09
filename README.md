@@ -98,11 +98,6 @@ The notebook includes:
 
 ---
 
-## 📸 Sample Visualization
-
-The project includes a histogram showing the distribution of taxi fares, helping to understand how fares are spread across all taxi trips.
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -126,6 +121,5 @@ This project was completed as part of my Python and data analysis learning journ
 
 ## 👤 Author
 
-**Your Name**
+**RITESH**
 
-GitHub: https://github.com/yourusername
